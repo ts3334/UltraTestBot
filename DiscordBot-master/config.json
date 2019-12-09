@@ -1,0 +1,14 @@
+{
+  "client_id": "653449871348596757",
+  "token": "NjUzNDQ5ODcxMzQ4NTk2NzU3.Xe3neQ.Y3VwlEjggBtLftCDOCv9BYInU8E",
+  "link": "https://discordapp.com/api/oauth2/authorize?client_id=652593351513604117&permissions=36710400&scope=bot",
+  "defaultPrefix": "!",
+  "serverSettings": {
+    "434506160456990721": {
+      "prefix": "!"
+    },
+    "484559871501664270": {
+      "prefix": "*"
+    }
+  }
+}

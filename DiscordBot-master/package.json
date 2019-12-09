@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "discordbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkl263/DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkl263/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/bkl263/DiscordBot#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^3.5.1",
+    "discord.js": "^11.5.1",
+    "ffmpeg-static": "^2.7.0",
+    "node-opus": "^0.3.3"
+  }
+}
